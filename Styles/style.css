@@ -1,0 +1,28 @@
+div {
+	font-size: 20px;
+	margin-left:200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 32px;
+
+
+
+}
+
+body{
+	background-color: white
+}
+h1{
+	font-size: 36px;
+	line-height: 36px;
+	border-bottom-style: solid;
+}
+
+.tip {
+	background-color: #def6ed;
+	border-radius: 4px;
+	margin-left:25px;
+
+}
+
+
